@@ -106,3 +106,5 @@
 | **전체 시연**   | 🔗 [전체 영상 보기](https://www.youtube.com/watch?v=Exn1IgbZEys) |
 
 ---
+## 팀 프로젝트 Git 주소
+- https://github.com/IN-P/HALO
