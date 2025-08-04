@@ -15,13 +15,14 @@
 
 ---
 
-##  주요 기술 스택
+## 🛠️ 주요 기술 스택 및 실무 활용 역량
 
-| 영역         | 사용 기술                                      |
-|--------------|-------------------------------------------------|
-| **Backend**  | Node.js (Express), MySQL, JWT, WebSocket       |
-| **Frontend** | React.js, Axios, Bootstrap                     |
-| **기타**     | OpenWeather API, Socket.IO, Kakao OAuth        |
+| 영역         | 사용 기술                                      | 실무 활용 역량 설명 |
+|--------------|-------------------------------------------------|---------------------|
+| **Backend**  | Node.js (Express), MySQL, JWT, WebSocket       | RESTful API 및 JWT 기반 인증 구현<br>MySQL 기반 테이블 설계 및 쿼리 처리<br>WebSocket을 활용한 1:1 채팅 시스템 및 실시간 알림 기능 설계 |
+| **Frontend** | React.js, Axios, Bootstrap                     | React 기반 컴포넌트 설계 및 상태 관리<br>Axios로 백엔드 API 연동<br>Bootstrap으로 반응형 UI 구현 및 사용자 경험 강화 |
+| **기타**     | OpenWeather API, Socket.IO, Kakao OAuth        | OpenWeather API 연동을 통한 날씨 데이터 호출 및 캐싱 최적화<br>Socket.IO를 활용한 실시간 채팅 통신 처리<br>Kakao OAuth를 통한 소셜 로그인 인증 구현 |
+
 
 ---
 
